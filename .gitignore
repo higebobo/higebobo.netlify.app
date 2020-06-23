@@ -1,4 +1,9 @@
+*~
+*.bak
+*.orig
+*.pyc
 node_modules/
 dist/
 /npm-debug.log
 yarn-error.log
+bin
